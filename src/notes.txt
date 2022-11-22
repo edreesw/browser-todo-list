@@ -1,0 +1,2 @@
+TODO: forms for add group, edit, add todo, etc... - create generator functions to return the form elements, have them all set to "display: none" like you did in the library project.
+figure out a way to show only title, clicking a todo should expand it and show full description. clicking again should hide description.
